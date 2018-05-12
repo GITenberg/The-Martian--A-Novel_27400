@@ -1,0 +1,39 @@
+_repo: The-Martian--A-Novel_27400
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27400-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Du Maurier, George
+    aliases:
+    - Maurier, George Du
+    - Du Maurier, George Louis Palmella Busson
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: 'The narrator and main character, Barty Josselin, attempts suicide after
+  he loses his sight in one eye, prompting the appearance of Martia, the Martian,
+  with whom he now shares his body. Du Maurier also introduces the concept of automatic
+  writing in this novel: while Josselin sleeps, Martia writes and Josselin becomes
+  a world-famous writer.'
+gutenberg_issued: '2008-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27400'
+  lccn: 06035879
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PR'
+title: 'The Martian: A Novel'
+url: http://www.gutenberg.org/ebooks/27400
